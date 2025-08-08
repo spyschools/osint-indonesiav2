@@ -13,8 +13,7 @@ Jalankan
 
 $ python3 osint_v2.py 3275124308050003 +6281234567890
 
+Hasil akan muncul di terminal dan tersimpan ke report.html.
 
-# Hasil akan muncul di terminal dan tersimpan ke report.html.
-
-*gunakan tools ini dengan bijak
-*tolls ini hanya untuk pengetesan dan pengembangan 
+# gunakan tools ini dengan bijak
+# tolls ini hanya untuk pengetesan dan pengembangan 

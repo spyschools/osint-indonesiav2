@@ -12,6 +12,11 @@ $ pip3 install --upgrade pip
 $ pip3 install requests bs4 colorama
 
 Jalankan
+$ git clone https://github.com/spyschools/osint-indonesiav2.git
+
+$ cd osint-indonesiav2
+
+$ chmod +x osint_v2.py
 
 $ python3 osint_v2.py 3275124308050003 +6281234567890
 

@@ -5,7 +5,9 @@ Script ini tidak akan ambil data dari database ilegal, tapi hanya dari sumber OS
 
 Install dependensi:
 
-$ sudo apt update && sudo apt install python3-pi
+$ sudo apt update && sudo apt install python3-pip
+
+$ pip3 install --upgrade pip
 
 $ pip3 install requests bs4 colorama
 
